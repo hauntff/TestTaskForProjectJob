@@ -25,7 +25,6 @@ C:\Users\Admin\source\repos\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debu
 C:\Users\Admin\source\repos\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\ref\TestTaskForProjectJob.dll
 C:\Users\Admin\source\repos\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\TestTaskForProjectJob.pdb
 C:\Users\Admin\source\repos\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\TestTaskForProjectJob.genruntimeconfig.cache
-C:\Users\Admin\OneDrive\Документы\GitHub\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\TestTaskForProjectJob.csproj.AssemblyReference.cache
 C:\Users\Admin\OneDrive\Документы\GitHub\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\TestTaskForProjectJob.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Admin\OneDrive\Документы\GitHub\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\TestTaskForProjectJob.AssemblyInfoInputs.cache
 C:\Users\Admin\OneDrive\Документы\GitHub\TestTaskForProjectJob\TestTaskForProjectJob\obj\Debug\net5.0\TestTaskForProjectJob.AssemblyInfo.cs
